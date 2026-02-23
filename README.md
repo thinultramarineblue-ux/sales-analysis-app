@@ -27,10 +27,10 @@ Python + Tkinter で作成した売上分析アプリです。
 ## 📂 ファイル構成
 
 sales_ap/
-├ main.py # 起動ファイル
-├ logic.py # 売上計算ロジック
-├ gui.py # 画面UI
-└ sales_today.cs
+　├ main.py # 起動ファイル　
+　├ logic.py # 売上計算ロジック　
+　├ gui.py # 画面UI　
+　└ sales_today.cs　
 
 ---
 
